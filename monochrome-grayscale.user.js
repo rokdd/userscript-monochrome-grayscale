@@ -5,11 +5,10 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://web.whatsapp.com/*
-// @match        https://trader.degiro.nl/*
 // @grant        GM_addStyle
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/rokdd/userscript-monochrome-grayscale/raw/main/monochrome-grayscale.user.js
+// @downloadURL  https://github.com/rokdd/userscript-monochrome-grayscale/raw/main/monochrome-grayscale.user.js
 // ==/UserScript==
 
 (function() {
