@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Monochrome grayscale website
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/rokdd/userscript-monochrome-grayscale/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Display websites in grayscale
+// @author       rokdd
 // @match        https://web.whatsapp.com/*
 // @grant        GM_addStyle
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
